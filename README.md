@@ -1,2 +1,2 @@
 # mi-primer-proyecto-android
-Esate es mi proyecto android para ser revisado
+Este es  mi  proyecto android  para ser revisado
